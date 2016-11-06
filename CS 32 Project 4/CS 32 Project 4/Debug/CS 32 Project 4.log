@@ -1,0 +1,11 @@
+﻿  main.cpp
+  IntelWeb.cpp
+c:\cs 32\cs 32 project 4\cs 32 project 4\intelweb.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\cs 32 project 4\cs 32 project 4\intelweb.cpp(190): warning C4018: '<': signed/unsigned mismatch
+  DiskMultiMap.cpp
+c:\cs 32\cs 32 project 4\cs 32 project 4\diskmultimap.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\cs 32 project 4\cs 32 project 4\diskmultimap.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\cs 32\cs 32 project 4\cs 32 project 4\diskmultimap.cpp(364): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CS 32 Project 4.vcxproj -> C:\CS 32\CS 32 Project 4\Debug\CS 32 Project 4.exe
+  CS 32 Project 4.vcxproj -> C:\CS 32\CS 32 Project 4\Debug\CS 32 Project 4.pdb (Full PDB)
